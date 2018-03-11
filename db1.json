@@ -1,0 +1,179 @@
+{
+  "Account": {
+    "signup": "Sign up to get your own account today!",
+    "update": "Update your TPC",
+    "logfetch": "Fetches logs from channel or server. Beware the disk usage.",
+    "logset": "Change activity logging settings",
+    "addrole": "Adds a role to a user, defaults to author",
+    "removerole": "Removes a role from user, defaults to author",
+    "say": "Bot repeats what you tell it to, utility for scheduler.",
+    "sudo": "Runs the [command] as if [user] had run it. DON'T ADD A P...",
+    "alias": "Manage per-server aliases for commands",
+    "account": "Your/Others Account"
+  },
+  "Alias": {
+    "alias": "Manage per-server aliases for commands"
+  },
+  "CustomCommands": {
+    "customcom": "Custom commands management"
+  },
+  "Economy": {
+    "bank": "Bank operations",
+    "economyset": "Changes economy module settings",
+    "leaderboard": "Server / global leaderboard",
+    "payday": "Get some free credits",
+    "payouts": "Shows slot machine payouts",
+    "slot": "Play the slot machine"
+  },
+  "General": {
+    "8": "Ask 8 ball a question",
+    "choose": "Chooses between multiple choices.",
+    "flip": "Flips a coin... or a user.",
+    "lmgtfy": "Creates a lmgtfy link",
+    "poll": "Starts/stops a poll",
+    "roll": "Rolls random number (between 1 and user choice)",
+    "rps": "Play rock paper scissors",
+    "serverinfo": "Shows server's informations",
+    "stopwatch": "Starts/stops stopwatch",
+    "urban": "Urban Dictionary search",
+    "userinfo": "Shows users's informations"
+  },
+  "Image": {
+    "gif": "Retrieves first search result from giphy",
+    "gifr": "Retrieves a random gif from a giphy search",
+    "imgur": "Retrieves pictures from imgur"
+  },
+  "Mod": {
+    "ban": "Bans user and deletes last X days worth of messages.",
+    "cleanup": "Deletes messages.",
+    "editrole": "Edits roles settings",
+    "filter": "Adds/removes words from filter",
+    "hackban": "Preemptively bans user from the server",
+    "ignore": "Adds servers/channels to ignorelist",
+    "kick": "Kicks user.",
+    "names": "Show previous names/nicknames of a user",
+    "reason": "Lets you specify a reason for mod-log's cases",
+    "rename": "Changes user's nickname",
+    "softban": "Kicks the user, deleting 1 day worth of messages.",
+    "unignore": "Removes servers/channels from ignorelist",
+    "modset": "Manages server administration settings.",
+    "mute": "Mutes user in the channel/server",
+    "unmute": "Unmutes user in the channel/server"
+  },
+  "Owner": {
+    "contact": "Sends a message to the owner",
+    "info": "Shows info about Red",
+    "set": "Changes Red's core settings",
+    "uptime": "Shows Red's uptime",
+    "version": "Shows Red's current version"
+  },
+  "Streams": {
+    "hitbox": "Checks if hitbox stream is online",
+    "mixer": "Checks if mixer stream is online",
+    "picarto": "Checks if picarto stream is online",
+    "streamalert": "Adds/removes stream alerts from the current channel",
+    "streamset": "Stream settings",
+    "twitch": "Checks if twitch stream is online"
+  },
+  "Trigger": {
+    "trigger": "Trigger creation commands"
+  },
+  "Trivia": {
+    "trivia": "Start a trivia session with the specified list",
+    "triviaset": "Change trivia settings"
+  },
+  "​No Category": {
+    "help": "Shows this message."
+  },
+  "Audio": {
+    "audioset": "Audio settings.",
+    "audiostat": "General stats on audio stuff.",
+    "cache": "Cache management tools.",
+    "local": "Local playlists commands",
+    "pause": "Pauses the current song, `[p]resume` to continue.",
+    "play": "Plays a link / searches and play",
+    "playlist": "Playlist management/control.",
+    "prev": "Goes back to the last song.",
+    "queue": "Queues a song to play next. Extended functionality in `[p]help`",
+    "repeat": "Toggles REPEAT",
+    "resume": "Resumes a paused song or playlist",
+    "shuffle": "Shuffles the current queue",
+    "skip": "Skips a song, using the set threshold if the requester isn't",
+    "song": "Info about the current song.",
+    "stop": "Stops a currently playing song or playlist. CLEARS QUEUE.",
+    "yt": "Searches and plays a video from YouTube"
+  },
+  "CardsAgainstHumanity": {
+    "cahcredits": "Code credits.",
+    "cahgames": "Displays up to 10 CAH games in progress.",
+    "chat": "Broadcasts a message to the other players in your game.",
+    "flushhand": "Flushes the cards in your hand - can only be done once per g...",
+    "game": "Displays the game's current status.",
+    "hand": "Shows your hand.",
+    "idlekick": "Sets whether or not to kick members if idle for 5 minutes or...",
+    "joinbot": "Adds a bot to the game.  Can only be done by the player who ...",
+    "joinbots": "Adds bots to the game.  Can only be done by the player who c...",
+    "joincah": "Join a Cards Against Humanity game.  If no id or user is pas...",
+    "laid": "Shows who laid their cards and who hasn't.",
+    "lay": "Lays a card or cards from your hand.  If multiple cards are ...",
+    "leavecah": "Leaves the current game you're in.",
+    "newcah": "Starts a new Cards Against Humanity game.",
+    "pick": "As the judge - pick the winning card(s).",
+    "removebot": "Removes a bot from the game.  Can only be done by the player...",
+    "removeplayer": "Removes a player from the game.  Can only be done by the pla...",
+    "score": "Display the score of the current game."
+  },
+  "Casino": {
+    "allin": "It's all or nothing. Bets everything you have.",
+    "blackjack": "Modified Blackjack.",
+    "casino": "Casino Group Commands",
+    "coin": "Bet on heads or tails",
+    "cups": "Pick the cup that is hiding the gold coin. Choose 1, 2, 3, or 4",
+    "dice": "Roll 2, 7, 11 or 12 to win.",
+    "hilo": "Pick High, Low, Seven. Lo is < 7 Hi is > 7. 6x payout on 7",
+    "setcasino": "Configures Casino Options",
+    "war": "Modified War Card Game."
+  },
+  "Cleverbot": {
+    "cleverbot": "Talk with cleverbot"
+  },
+  "CustomRoles": {
+    "customrole": "Mods can add roles, users can apply or relieve roles. Roles ..."
+  },
+  "FourInARow": {
+    "4row": "Four in a row game operations.",
+    "listtokens": "DM's a list of available tokens.",
+    "mytoken": "Insert token at given position.",
+    "setmytoken": "Change your preferred token."
+  },
+  "Identicon": {
+    "identicon": "Generate an unique avatar of your Discord ID"
+  },
+  "Lottery": {
+    "lottery": "Lottery Group Command",
+    "setlottery": "Lottery Settings"
+  },
+  "MassDM": {
+    "massdm": "Sends a DM to all Members with the given Role."
+  },
+  "RussianRoulette": {
+    "resetrr": "Reset command if game is stuck.",
+    "russian": "Starts the betting.",
+    "setrussian": "Russian Roulette Settings."
+  },
+  "SmartReact": {
+    "addreact": "Add an auto reaction to a word.",
+    "delreact": "Delete an auto reaction to a word."
+  },
+  "Tickets": {
+    "cleartickets": "Clears all tickets.",
+    "deleteticket": "Deletes any number of tickets, default = 1",
+    "nextticket": "Gets the next ticket.",
+    "ticket": "Adds ticket.",
+    "ticketset": "Ticket cog settings"
+  },
+  "Translate": {
+    "settr": "Magic OP commands for translated.",
+    "translate": "Translate text with use of translated.net "
+  }
+}
